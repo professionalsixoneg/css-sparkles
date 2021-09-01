@@ -9,7 +9,7 @@ var Sparkle = function() {
 
 	var settings = {
 
-		totalStars: 8,		// number of stars
+		totalStars: 18,		// number of stars
 
 		verticalSlot: {
 			start: 0,
